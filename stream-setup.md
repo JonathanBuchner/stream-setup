@@ -5,16 +5,13 @@
 ## Equipment
 
 ### Computer
-
-| Computer |
-| :-- |
-| [AMD Ryzen 9 3900X 12-Core Processor 3.80 GHz (OC 4.2GHz)](https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x) |
-| [AMD Radeon RX 5700 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-5700-xt) |
-| [970 EVO Plus NVMe® M.2 SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/)|
-| [Corsair Vengeance RGB Pro 64 GB (2 x 32 GB) DDR4-3600](https://www.corsair.com/us/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW64GX4M2D3000C16) |
-| [LG 27.0" 3840x2160 60 Hz Monitor](https://www.lg.com/us/monitors/lg-27UD58-B-4k-uhd-led-monitor?gclid=CjwKCAiAtdGNBhAmEiwAWxGcUo2IR5sVHlIPMTEPoXTwevUBt9UthLmgDUK_gfOmR8YDhyn1H70VRxoCILUQAvD_BwE&gclsrc=aw.ds) x 2 |
-| [Elgato Cam Link Pro (Multi Camera Production)](https://www.elgato.com/en/cam-link-pro) |
-| Full Build at [PC Part Picker](https://pcpartpicker.com/list/rcCzmk) |
+- [AMD Ryzen 9 3900X 12-Core Processor 3.80 GHz (OC 4.2GHz)](https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x) |
+- [AMD Radeon RX 5700 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-5700-xt) |
+- [970 EVO Plus NVMe® M.2 SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/)|
+- [Corsair Vengeance RGB Pro 64 GB (2 x 32 GB) DDR4-3600](https://www.corsair.com/us/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW64GX4M2D3000C16) |
+- [LG 27.0" 3840x2160 60 Hz Monitor](https://www.lg.com/us/monitors/lg-27UD58-B-4k-uhd-led-monitor?gclid=CjwKCAiAtdGNBhAmEiwAWxGcUo2IR5sVHlIPMTEPoXTwevUBt9UthLmgDUK_gfOmR8YDhyn1H70VRxoCILUQAvD_BwE&gclsrc=aw.ds) x 2 |
+- [Elgato Cam Link Pro (Multi Camera Production)](https://www.elgato.com/en/cam-link-pro) |
+- Full Build at [PC Part Picker](https://pcpartpicker.com/list/rcCzmk) |
 
 | Desk |
 | :-- |
