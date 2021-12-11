@@ -13,12 +13,14 @@
 - [Elgato Cam Link Pro (Multi Camera Production)](https://www.elgato.com/en/cam-link-pro) |
 - Full Build at [PC Part Picker](https://pcpartpicker.com/list/rcCzmk) |
 
-| Desk |
-| :-- |
-| [UPLIFT Standing Desk (V2) 72 x 30 - Pheasant Wood](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)|
-| [UPLIFT Range Dual Monitor](https://www.upliftdesk.com/range-dual-monitor-arm-uplift-desk/)|
-| [UPLIFT Range Single Monitor Arm](https://www.upliftdesk.com/range-single-monitor-arm-uplift-desk/)
-| [Webcam Mount 1/4" Desk Mount Camera Arm]() x 3 |
+### Desk 
+[UPLIFT Standing Desk (V2) 72 x 30 - Pheasant Wood](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)
+
+[UPLIFT Range Dual Monitor](https://www.upliftdesk.com/range-dual-monitor-arm-uplift-desk/)
+
+[UPLIFT Range Single Monitor Arm](https://www.upliftdesk.com/range-single-monitor-arm-uplift-desk/)
+
+[Webcam Mount 1/4" Desk Mount Camera Arm]() x 3 
 
 
 | Cameras |
